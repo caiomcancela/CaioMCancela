@@ -3,7 +3,7 @@
 🏫 UNIFAGOC-Centro Universitário Governador Ozanam Coelho  
 📚 1º Período (Noturno)
 
-[![Website Badge](https://img.shields.io/badge/-caiomcancela-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=caiomcancela.com.br)](caiomcancela.com.br)
+[![Website Badge](https://img.shields.io/badge/-caiomcancela-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://caiomcancela.com.br)
 
 ## 📶 Dados e Metricas:
 
