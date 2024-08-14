@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio Moreira Cancela 🖐️
 💻 Estudante de Bacharelado em Ciência da Computação     
 🏫 UNIFAGOC-Centro Universitário Governador Ozanam Coelho  
-📚 1º Período (Noturno)
+📚 2º Período (Noturno)
 
 [![Website Badge](https://img.shields.io/badge/-caiomcancela-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://caiomcancela.com.br)
 
