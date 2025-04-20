@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Caio Moreira Cancela 🖐️
 💻 Estagiario SimpleSoft - Sistemas de Informação
+
 💻 Estudante de Bacharelado em Ciência da Computação
-🏫 UNIFAGOC-Centro Universitário Governador Ozanam Coelho  
+
+🏫 UNIFAGOC-Centro Universitário Governador Ozanam Coelho 
+
 📚 3º Período (Noturno)
 
 ---
