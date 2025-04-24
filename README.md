@@ -15,8 +15,7 @@
 
 ---
 ### ⚙️ Tecnologias que eu uso no meu dia:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java&theme=light)](https://skillicons.dev)
 
 ---
 ### 📱 Contato:
