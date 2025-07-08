@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Caio Moreira Cancela 🖐️
-💻 Estagiário SimpleSoft - Sistemas de Informação
+💻 Suporte Tecnico SimpleSoft - Sistemas de Informação
 
 💻 Estudante de Bacharelado em Ciência da Computação
 
