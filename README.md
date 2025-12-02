@@ -5,7 +5,6 @@
 ---
 ### 📶 Dados e Metricas:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioMCancela&theme=merko&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMCancela&layout=compact&theme=merko)
 
 ---
