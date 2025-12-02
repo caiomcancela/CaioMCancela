@@ -1,21 +1,22 @@
 ## Olá! Eu sou o Caio Moreira Cancela 🖐️
 💻 Suporte Tecnico SimpleSoft - Sistemas de Informação
 
-💻 Estudante de Bacharelado em Ciência da Computação
-
-🏫 UNIFAGOC-Centro Universitário Governador Ozanam Coelho 
-
-📚 3º Período (Noturno)
-
+🏫 Estudante de Bacharelado em Ciência da Computação - UNIFAGOC
 ---
 ### 📶 Dados e Metricas:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMCancela&show_icons=true&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioMCancela&theme=merko&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMCancela&layout=compact&theme=merko)
 
 ---
-### ⚙️ Tecnologias que eu uso no meu dia:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java&theme=light)](https://skillicons.dev)
+### ⚙️ Tecnologias
+<div> 
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="25" width="25" align="middle" />
+    <b>Estudando</b>
+  </kbd>
+</div>
+
 
 ---
 ### 📱 Contato:
