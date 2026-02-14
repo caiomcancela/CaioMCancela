@@ -6,7 +6,7 @@
 ---
 ### 📶 Dados e Metricas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMCancela&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomcancela&layout=compact&theme=merko)
 
 ---
 ### ⚙️ Tecnologias
